@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autoharvest",
+  "name": "AutoHarvest",
+  "description": "A mod created to automatically harvest potatoes and carrots in hypixel skyblock",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["_Kargo"],
+  "credits": "Hypixel staff",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
